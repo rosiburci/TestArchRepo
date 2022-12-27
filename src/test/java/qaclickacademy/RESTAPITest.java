@@ -18,6 +18,9 @@ public class RESTAPITest {
 		System.out.println("postJira6");
 		System.out.println("postJira7");
 		
+		//rosiupdates
+		System.out.println("postJira8");
+		System.out.println("postJira9");
 		
 		
 		
