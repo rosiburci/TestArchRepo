@@ -22,6 +22,9 @@ public class RESTAPITest {
 		System.out.println("postJira8");
 		System.out.println("postJira9");
 		
+		//updates proj x american guy  rosi
+		
+		System.out.println("postJira10");
 		
 		
 		
