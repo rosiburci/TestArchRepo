@@ -18,6 +18,16 @@ public class AppiumTest {
 		System.out.println("NativeAPpAndroid");
 	}
 	
+	//rosi test 3 branch dev
+	@Test
+	public void NativeAPpAndroidS3()
+	{
+		System.out.println("NativeAPpAndroid");
+		
+		System.out.println("NativeAPpAndroid");
+	}
+	
+	
 	@Test
 	public void IOSApps()
 	{
